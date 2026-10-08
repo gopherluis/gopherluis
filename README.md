@@ -4,7 +4,7 @@
 
 ### What I'm working on
 
-- Learning Java and Typescript
+- Improving my Java and Typescript knowledge
 - ZKP database management
 
 ### Tech stack
